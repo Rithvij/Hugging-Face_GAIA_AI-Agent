@@ -4,6 +4,7 @@
 This repository contains a **tool-augmented ReAct-style agent** built for the **GAIA benchmark**, implemented using **LangGraph**, **LangChain**, **Google Gemini**, and **OpenAI** models.
 
 The agent achieved a **~70% score on the GAIA benchmark**, demonstrating effective multi-step reasoning, structured tool usage, and robust orchestration across modalities.
+![Certification Achieved](HF_AI-Agents_Course.png)
 
 ---
 
